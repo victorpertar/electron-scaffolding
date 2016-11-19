@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+/node_modules/
+/.idea/
+.idea/compiler.xml
+.idea/copyright/
+.idea/electron-scaffolding.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/typescript-compiler.xml
+.idea/vcs.xml
+.idea/workspace.xml
+node_modules/
+/src/*.js
+/src/*.map
