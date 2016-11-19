@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/compiler.xml
+.idea/copyright/
+.idea/electron-scaffolding.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+/node_modules/
+/.idea/
+/out/
+.idea/typescript-compiler.xml
+.idea/vcs.xml
+out/
+/src/*.js
+/src/*.map
+/src/electron-scaffolding-cli.js.map
+/src/electron-scaffolding-cli.js
