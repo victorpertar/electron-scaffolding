@@ -1,4 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
+/node_modules/
+/.idea/
 .idea/compiler.xml
 .idea/copyright/
 .idea/electron-scaffolding.iml
@@ -6,8 +8,6 @@
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
-/node_modules/
-/.idea/
 /out/
 .idea/typescript-compiler.xml
 .idea/vcs.xml
@@ -16,3 +16,4 @@ out/
 /src/*.map
 /src/electron-scaffolding-cli.js.map
 /src/electron-scaffolding-cli.js
+node_modules/
